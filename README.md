@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align="left">
+  
+## Tech Stacks
 
-<!--
-**yeseonglee/yeseonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Frontend</h4>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
-Here are some ideas to get you started:
+<h4>Cowork Tools</h4>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2></h2>
+
+<h6>
+<li>홍익대학교 컴퓨터공학과 <sub>(2022.03 ~ )</sub></li>
+<li>IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a> • 4기 Web <sub>(2023.03 ~ 현재)</sub></li>
+</h6>
+
+</div>
