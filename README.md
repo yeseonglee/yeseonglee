@@ -15,7 +15,8 @@
 
 <h6>
 <li>홍익대학교 컴퓨터공학과 <sub>(2022.03 ~ )</sub></li>
-<li>IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a> • 4기 Web <sub>(2023.03 ~ 현재)</sub></li>
+<li>IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a> • 4기 Web <sub>(2023.03 ~ 2023.09)</sub></li>
+  <li>IT 연합 동아리 <a href="https://www.makeus.in/umc">UMC</a> • 5기 Server <sub>(2023.09 ~ 현재)</sub></li>
 </h6>
 
 </div>
